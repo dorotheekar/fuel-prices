@@ -1,8 +1,16 @@
-## Fuel prices (France) visualisation and prediction
-> This project aims at understanding how fuel prices evolved over time per type and per station in France. This project was primarly developed on Google Colab for a school project. The purpose of this project is to have a first use of Pyspark for data management and prediction processes. Language used for commentary is French.
+## Fuel prices (France) visualization and prediction
+> This project aims to understand how fuel prices evolved per type and station in France. This project was primarily developed on Google Colab for a school project. The purpose of this project is to have the first use of Pyspark for data management and prediction processes. The language used for commentary is French.
 
-## Data source
-> All data are available online. Choropleth segmentation were obtained via https://france-geojson.gregoiredavid.fr
+## Data Source
+> All data are available online. Choropleth segmentation was obtained via https://france-geojson.gregoiredavid.fr
+
+## Used Library
+- ```pyspark```
+- ```folium```
+- ```pandas```
+- ```matplotlib```
+- ```seaborn```
+- ```geopandas```
 
 ## Script structure
 #### QUESTION 1 : Préparation des données - étape 1
