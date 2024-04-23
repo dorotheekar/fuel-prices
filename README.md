@@ -1,4 +1,4 @@
-## Fuel prices (France) visualization and prediction
+## France fuel prices visualization and prediction
 > This project aims to understand how fuel prices evolved per type and station in France. It was primarily developed on Google Colab for a school project. The purpose was to get the first use of Pyspark for data management and prediction processes. The language used for commentary is French.
 
 ## Data Source
